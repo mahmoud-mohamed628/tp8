@@ -6,7 +6,6 @@
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body>
-    <h2>Calculatrice simple</h2>
 
     <form method="post" action="">
         <label>Nombre 1 : </label>
